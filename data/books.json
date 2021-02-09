@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "isbn": "123",
+        "judul": "Petualangan Naruto",
+        "sinopsis": "Tentang Naruto Memancing",
+        "penulis": "Abdoel",
+        "genre": "Biografi"
+    },
+    {
+        "id": 2,
+        "isbn": "456",
+        "judul": "Pilihan Sasuke",
+        "sinopsis": "Tetang Sasuke Menyapu",
+        "penulis": "Doella",
+        "genre": "Romantis"
+    },
+    {
+        "id": 3,
+        "isbn": "789",
+        "judul": "Tentang Kohar",
+        "sinopsis": "Tentang Kohar Mencari Sandal",
+        "penulis": "Soepeno",
+        "genre": "Dokumenter"
+    }
+]
